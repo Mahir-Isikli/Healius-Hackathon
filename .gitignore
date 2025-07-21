@@ -6,6 +6,11 @@ CLAUDE.md
 !**/Info.plist.template
 project.pbxproj
 
+# Python virtual environments
+.venv/
+venv/
+env/
+
 # Xcode user-specific files
 **/xcuserdata/
 **/*.xcuserstate
