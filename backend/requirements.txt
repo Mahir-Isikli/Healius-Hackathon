@@ -1,0 +1,17 @@
+aiortc>=1.13.0
+av>=14.4.0
+elevenlabs>=2.7.1
+fastapi[all]>=0.116.1
+huggingface-hub>=0.33.4
+numpy>=2.2.6
+opencv-python>=4.8.0
+pillow>=11.3.0
+supervision>=0.26.0
+torch>=2.7.1
+torchaudio>=2.7.1
+torchvision>=0.22.1
+transformers>=4.53.2
+uvicorn>=0.35.0
+realtime-websocket-conversation>=0.1.0
+openai>=1.68.0
+python-dotenv>=1.0.0

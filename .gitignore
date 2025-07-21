@@ -1,0 +1,23 @@
+CLAUDE.md
+*.env
+
+# API Keys and secrets
+*.plist
+!**/Info.plist.template
+project.pbxproj
+
+# Xcode user-specific files
+**/xcuserdata/
+**/*.xcuserstate
+**/project.xcworkspace/xcuserdata/
+
+# Build artifacts
+build/
+DerivedData/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

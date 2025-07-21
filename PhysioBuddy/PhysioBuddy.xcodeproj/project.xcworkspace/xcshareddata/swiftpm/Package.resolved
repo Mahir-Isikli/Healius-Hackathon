@@ -1,0 +1,42 @@
+{
+  "originHash" : "84be23efb891c9eb3e6d18d4e7450fdb79cb40c3c226e71d34891a12b6796c0b",
+  "pins" : [
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm.git",
+      "state" : {
+        "revision" : "04f2fd18cc9404a0a0917265a449002674f24ec9",
+        "version" : "4.5.2"
+      }
+    },
+    {
+      "identity" : "onboardingkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BortoAle/OnboardingKit.git",
+      "state" : {
+        "revision" : "243b058163eda025a455a325697307dce13810fe",
+        "version" : "0.1.5"
+      }
+    },
+    {
+      "identity" : "swift-realtime-openai",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/m1guelpf/swift-realtime-openai.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5b1c2592f2cdafb4bac5cfe77cc58d1f63d949af"
+      }
+    },
+    {
+      "identity" : "webrtc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stasel/WebRTC.git",
+      "state" : {
+        "branch" : "latest",
+        "revision" : "820d216010b6bb5695139852ec6740edd6f790ff"
+      }
+    }
+  ],
+  "version" : 3
+}
